@@ -1,0 +1,8 @@
+https://www.freecodecamp.org/news/how-you-can-use-lite-server-for-a-simple-development-web-server-33ea527013c9/
+
+npm init
+npm install --save-dev lite-server
+"scripts": { "start": "lite-server"},
+
+In your index.html, just before the <;a> tag, add a heading tag to the page:
+<h1>lite-server</h1>
