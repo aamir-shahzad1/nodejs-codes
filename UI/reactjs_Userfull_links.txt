@@ -1,0 +1,2 @@
+
+https://scriptverse.academy/tutorials/reactjs-pass-props-to-functional-component.html
