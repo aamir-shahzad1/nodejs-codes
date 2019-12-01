@@ -8,3 +8,6 @@ https://b-ok.cc/book/2885521/e24cfb
 
 download full icon pack for website
 https://www.flaticon.com/packs/food-and-drinks-22
+
+reactjs redux redux-thunk best tutorial
+https://codeburst.io/understanding-redux-thunk-6dbae0241817
