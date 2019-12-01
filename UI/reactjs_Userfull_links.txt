@@ -11,3 +11,8 @@ https://www.flaticon.com/packs/food-and-drinks-22
 
 reactjs redux redux-thunk best tutorial
 https://codeburst.io/understanding-redux-thunk-6dbae0241817
+
+example code that i merges to make project code with ReactjsReduxThunkMaterialUIBableWebpack with all updated depencies
+https://github.com/SiddharthaChowdhury/bp-common
+https://www.freecodecamp.org/news/how-to-use-reactjs-with-webpack-4-babel-7-and-material-design-ff754586f618/
+https://flaviocopes.com/update-npm-dependencies/
