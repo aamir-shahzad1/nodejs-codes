@@ -20,3 +20,6 @@ https://flaviocopes.com/update-npm-dependencies/
 redux react source code 
 https://codesandbox.io/s/9on71rvnyo
 https://github.com/reduxjs/redux-thunk
+//============================================================
+reactjs chartjs
+https://www.createwithdata.com/react-chartjs-dashboard/
