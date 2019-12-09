@@ -1,2 +1,5 @@
 how to setup postgress with ubunut and connect with dbeaver
 https://github.com/Kinto/kinto/wiki/How-to-run-a-PostgreSQL-server%3F
+
+redis with nodejs
+https://www.sitepoint.com/using-redis-node-js/
