@@ -1,5 +1,6 @@
 var crypto = require("crypto")
 //https://attacomsian.com/blog/nodejs-encrypt-decrypt-data
+//https://onlinerandomtools.com/generate-random-string
 function encrypt(key, data) {
         var cipher = crypto.createCipher('aes-256-cbc', key);
         var crypted = cipher.update(data, 'utf-8', 'hex');
