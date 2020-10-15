@@ -5,6 +5,8 @@ https://github.com/vnovick/graphql-jwt-tutorial
 
 link for facebook authentication
 https://www.twilio.com/blog/facebook-oauth-login-node-js-app-passport-js
+https://developers.facebook.com/apps/
+
 instagram
 https://medium.com/crowdbotics/add-instagram-login-to-your-nodejs-app-using-passportjs-be7e8e31efb8
 google
