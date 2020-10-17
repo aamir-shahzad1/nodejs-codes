@@ -2,6 +2,8 @@ authentication example
 https://hasura.io/blog/best-practices-of-using-jwt-with-graphql/#:~:text=What%20happens%20if%20a%20token,only%20valid%20for%2015%20minutes.&text=The%20user%20will%20keep%20getting,JWT%20token%20in%20the%20background.
 https://github.com/vnovick/graphql-jwt-tutorial
 
+login button html and css
+https://codepen.io/cliftwalker/pen/JoWyjy
 
 link for facebook authentication
 https://www.twilio.com/blog/facebook-oauth-login-node-js-app-passport-js
