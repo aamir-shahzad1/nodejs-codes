@@ -15,3 +15,8 @@ google
 https://www.loginradius.com/engineering/blog/google-authentication-with-nodejs-and-passportjs/
 twitter
 https://medium.com/free-code-camp/how-to-set-up-twitter-oauth-using-passport-js-and-reactjs-9ffa6f49ef0
+
+
+Gmail SMTP Oauth2.0
+https://www.youtube.com/watch?v=wevmV9iZswI&ab_channel=webdive
+https://github.com/nil56/nodemailer/blob/lesson8/mailer/nodemailer.js
